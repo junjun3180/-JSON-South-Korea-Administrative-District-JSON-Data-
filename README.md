@@ -8,7 +8,6 @@ This repository provides JSON data for the administrative districts of South Kor
 
 <br>
 
----
 
 ## 🇰🇷 한국어 설명
 
