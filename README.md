@@ -4,7 +4,7 @@
 
 This repository provides JSON data for the administrative districts of South Korea, organized by metropolitan cities/provinces, cities/counties/districts, and towns/townships/neighborhoods.
 
-[한국어 설명 바로가기](#-한국어-설명) | [English Description](#-English Description)
+[한국어 설명 바로가기](#-한국어-설명) | [English Description](#-English-Description)
 
 <br>
 
